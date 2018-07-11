@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+现状与相关决定：
 
-You can use the [editor on GitHub](https://github.com/sysukww/ife2018/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+       毕业工作已经三年了，目前岗位是软件开发岗，但是自己平时工作的内容却是运维+硬件+开发，内容十分的琐碎。这样的工作并不能提供给自己一个良好的程序开发氛围，大部分的时间也被一些琐碎的事情占据了。个人感觉，在这种环境下无法让一个人能够有巨大的长进的。因此，找一个让自己能够专心做开发并且开发氛围良好的平台很重要，是时候挪坑了。挪坑之前，也需要决定一下自己要从事的方向，目前自己做过的开发有PHP开发、.NET开发、JAVA WEB开发以及最近比较火的React Native开发，但是，这些都停留在了会用一点皮毛的程度上，究竟要选什么方向呢？有点像村上春树决定自己要从事写作那样，我决定了自己要入前端的坑，并努力成为高级前端工程师。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ 
 
-### Markdown
+选择前端的原因：
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+       相对于写代码，可能自己更喜欢去跟别人交流。有人就会说，既然你喜欢交流为什么不去选择当一名项目经理之类的？可能这就是自己对自己专业的执念吧，我希望首先能够在自己专业上有所成。而选前端的原因主要有以下几项：
 
-```markdown
-Syntax highlighted code block
+1）前端在移动端的分类越来越重，在前端更有可能让自己认识各种客户，了解他们的需求，并从客户身上学习；
 
-# Header 1
-## Header 2
-### Header 3
+2）前端可能更能够展示出科技之美，自己希望也能够展示这种美，或者说能够通过前端技术做出让人赏心悦目的事情。
 
-- Bulleted
-- List
+所以自己就决定进坑了。
 
-1. Numbered
-2. List
+ 
 
-**Bold** and _Italic_ and `Code` text
+未来与期待：
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sysukww/ife2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+       《金刚经》有句话，“过去心不可得,现在心不可得,未来心不可得”。要抛弃现在这份能够拥有大量下班时间的工作是让人不舍得，但是我更害怕的是自己没有成长。生活其实也是逆水行舟，不进则退。在这三年里，自己失去了很多，包括自己的秉性。入坑前端，就是要打开新的大门，在其中进行自我修炼。期待自己能够在困难前能勇往直前，并打开新的局面。
